@@ -1,6 +1,6 @@
 # ListLength
 
-**TODO: Add description**
+challenge list_length for Rocketseat's Ignite course
 
 ## Installation
 
